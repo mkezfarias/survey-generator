@@ -71,7 +71,7 @@ const generadorPreguntas = (type) =>{
        // })
         console.log(answers.map)
 
-      //  console.log(codigo1)
+        console.log(codigo1)
       })
     });
 
